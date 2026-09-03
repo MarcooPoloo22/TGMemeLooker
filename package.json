@@ -1,0 +1,26 @@
+{
+  "name": "tgmemelooker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcooPoloo22/TGMemeLooker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MarcooPoloo22/TGMemeLooker/issues"
+  },
+  "homepage": "https://github.com/MarcooPoloo22/TGMemeLooker#readme",
+  "dependencies": {
+    "got-scraping": "^4.2.1",
+    "node-cron": "^4.6.0",
+    "ws": "^8.21.3"
+  }
+}
